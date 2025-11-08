@@ -1,0 +1,16 @@
+{
+  "name": "hello-npm",
+  "version": "1.0.0",
+  "description": "Simple Node.js app built with Nix",
+  "main": "index.js",
+  "bin": {
+    "hello-npm": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0"
+  }
+}
