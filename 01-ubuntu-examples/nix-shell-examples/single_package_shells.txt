@@ -1,6 +1,7 @@
 # Single package shell examples
 
-nix-shell -p cowsay -- - "cowsay 'Hello from Nix'"
+nix-shell -p cowsay
+->cowsay "Hello from Nix"
 
 nix-shell -p python3
 
