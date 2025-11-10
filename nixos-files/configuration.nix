@@ -1,4 +1,4 @@
-{ config, pkgs, ... }:
+{ config, lib, pkgs, ... }:
 
 {
   imports =
@@ -8,6 +8,8 @@
     	./users.nix
     	./packages.nix
     	#./kde.nix
+      #./audiobookshelf.nix
+      #./gitea.nix
     ];
 
   networking.hostName = "nixos"; # Define your hostname.
