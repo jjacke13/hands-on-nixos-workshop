@@ -7,7 +7,6 @@ in
         vlc        
         tor
         tor-browser
-        vscode
         tmux
         #ettercap
         #wireshark
