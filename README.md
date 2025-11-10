@@ -6,6 +6,10 @@ Pre-configured VMs are available at: **nix4u.btc4u.me**
 - **Username:** workshop
 - **Password:** workshop
 
+Inside the VMs:
+- **User:** ws
+- **Password:** workshop
+
 These VMs are ready for the workshop with all prerequisites installed and this repository's files available.
 
 ## About
